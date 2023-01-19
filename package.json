@@ -3,6 +3,6 @@
     "json-server": "^0.17.1"
   },
   "scripts": {
-    "start": "json-server --watch ./api/record.json --port 3100"
+    "start": "json-server --watch ./api/record.json --port 3000"
   }
 }

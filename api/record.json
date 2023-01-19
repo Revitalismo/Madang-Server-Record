@@ -1,0 +1,165 @@
+{
+    "record": [
+        {
+            "id": 1,
+            "name": "Ikan bakar Bekasi",
+            "price": 20000,
+            "rating": "4.6(23)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/3_M4NxDo89A/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OXx8Zm9vZCUyMGZpc2h8ZW58MHx8fHwxNjczNzcxMzk4&force=true&w=640"
+        },
+        {
+            "id": 2,
+            "name": "Nasi kuching Racing",
+            "price": 10000,
+            "rating": "4.3(13)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/bY3MTo4HyCI/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzcxNTYy&force=true&w=640"
+        },
+        {
+            "id": 3,
+            "name": "Ayam bakar sukabumi",
+            "price": 22000,            
+            "rating": "4.8(103)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/8Uv6eanQWzY/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzcyODI5&force=true&w=640"
+        },
+        {
+            "id": 4,
+            "name": "Sate ayam Bang Jul",
+            "price": 15000,
+            "rating": "4.8(98)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/VVR8BkNAKLQ/download?force=true&w=640"
+        },
+        {
+            "id": 5,
+            "name": "Roti bakar pamulang",
+            "price": 10000,
+            "rating": "3.8(30)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/8Ng-RpZFtJs/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzczMTAz&force=true&w=640"
+        },
+        {
+            "id": 6,
+            "name": "Nasi goreng buatan Fani",
+            "price": 12000,
+            "rating": "5(1)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/rQX9eVpSFz8/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjB8fHJpY2V8ZW58MHx8fHwxNjczNzYxMzk0&force=true&w=640"
+        },
+        {
+            "id": 7,
+            "name": "Nasi goreng ayam",
+            "price": 18000,
+            "rating": "4(12)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/AvJX9o6w35U/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzcwNDg3&force=true&w=640"
+        },
+        {
+            "id": 8,
+            "name": "Es jeruk ada sarinya",
+            "price": 10000,
+            "rating": "4.6(23)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/lw8GflbJwLc/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTR8fGp1aWNlfGVufDB8fHx8MTY3Mzc0NjQ5OQ&force=true&w=640"
+        },
+        {
+            "id": 9,
+            "name": "Es coklat oreo",
+            "price": 14000,
+            "rating": "4.2(50)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/4FujjkcI40g/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzczOTIz&force=true&w=640"
+        },
+        {
+            "id": 10,
+            "name": "Pop corn rasa basic",
+            "price": 7000,
+            "rating": "3.2(43)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/iuwMdNq0-s4/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzc0MDkz&force=true&w=640"
+        },
+        {
+            "id": 11,
+            "name": "Kue kering miskas",
+            "price": 8000,
+            "rating": "2.3(23)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/hswvkbFJO9w/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzc0MTU0&force=true&w=640"
+        },
+        {
+            "id": 12,
+            "name": "Roti pisang coklat",
+            "price": 11000,
+            "rating": "4.6(12)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/9ybpfHSl4D8/download?force=true&w=640"
+        },
+        {
+            "id": 13,
+            "name": "Makaroni keju",
+            "price": 10000,
+            "rating": "4(13)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/SXSTliwZo9Q/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTYwfHxzbmFja3xlbnwwfHx8fDE2NzM3NzQyODk&force=true&w=640"
+        },
+        {
+            "id": 14,
+            "name": "Air mineral",
+            "price": 12000,
+            "rating": "4(10)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/I7JnGr1Z63w/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjR8fG1pbmVyYWwlMjB3YXRlcnxlbnwwfHx8fDE2NzM3NzQzNzU&force=true&w=640"
+        },
+        {
+            "id": 15,
+            "name": "Coklat panas",
+            "price": 10000,
+            "rating": "4.5(44)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/RtHw0PWCLhw/download?force=true&w=640"
+        },
+        {
+            "id": 16,
+            "name": "Coklat batangan 10cm x 6cm",
+            "price": 10000,
+            "rating": "4(3)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/H22N-9s8AUw/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzc0NDg2&force=true&w=640"
+        },
+        {
+            "id": 17,
+            "name": "Burger with lettuce and tomatoes",
+            "price": 18000,
+            "rating": "5(67)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/sc5sTPMrVfk/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjczNzc3MDE4&force=true&w=640"
+        },
+        {
+            "id": 18,
+            "name": "Pizza with green leaf",
+            "price": 32000,
+            "rating": "4.9(58)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/60nzTP7_hMQ/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OXx8cGl6emF8ZW58MHx8fHwxNjczNzUyMzY4&force=true&w=640"
+        },
+        {
+            "id": 19,
+            "name": "Pizza with vegetable",
+            "price": 30000,
+            "rating": "4.9(49)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/JspLKUauwSI/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjB8fHBpenphfGVufDB8fHx8MTY3Mzc1MjM2OA&force=true&w=640"
+        },
+        {
+            "id": 20,
+            "name": "Tukang bakso intel",
+            "price": 10000,
+            "rating": "3(3)",
+            "quantity": 1,
+            "image": "https://unsplash.com/photos/JspLKUauwSI/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjB8fHBpenphfGVufDB8fHx8MTY3Mzc1MjM2OA&force=true&w=640"
+        }
+        
+    ]
+}
